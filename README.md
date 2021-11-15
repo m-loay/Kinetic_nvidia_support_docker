@@ -1,4 +1,4 @@
-# Docker container images with ROS, Gazebo(Noetic), with Nvidia Support
+# Docker container images with ROS, Gazebo(Kinetic), with Nvidia Support
 This repository developed from nvidia/opengl and nvidia/cuda conatiners, combine these two together to create a ROS develope environment in docker
 
 
